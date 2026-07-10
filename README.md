@@ -1,3 +1,4 @@
+<img width="1189" height="790" alt="output" src="https://github.com/user-attachments/assets/13c89e7d-26e2-4c86-a03e-5bed36be4b53" />
 # Commodity Basis Risk Analyzer
 
 A quantitative finance tool built in Python to model, track, and analyze historical **basis risk** using real-time market data fetched via the Yahoo Finance API.
