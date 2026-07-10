@@ -11,6 +11,7 @@ Since physical spot commodity prices are often decentralized, this production-re
 
 The tool provides visual boundaries outlining a 1-Standard Deviation volatility zone to quantify this exact structural exposure over a 1-year historical window.
 
+
 ## Key Calculations Implemented
 * **Historical Spread Basis**: $B_t = \text{Spot Proxy}_t - \text{Futures Hedge}_t$
 * **Basis Risk Metric**: Standard Deviation ($\sigma$) of the historical basis spread.
