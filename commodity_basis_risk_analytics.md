@@ -1,0 +1,9 @@
+# Commodity Basis Risk Analytics: Crude Oil (WTI)
+
+| Metric | Value |
+| :--- | :--- |
+| **Data Window Tracked** | 2025-07-07 to 2026-07-07 |
+| **Average Spread Basis** | $0.0383 |
+| **Basis Risk Volatility** | $0.2912 |
+| **Max Contango Depth** | -$0.0900 |
+| **Max Backwardation Peak** | $3.6200 |
